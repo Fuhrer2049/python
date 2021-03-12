@@ -1,0 +1,3 @@
+friends=["loki","Tor","Thanos"]
+for a in fruits:
+      print(x)
